@@ -2,6 +2,8 @@
 
 This repository is for documenting the work [ ON MY - Jesse - 's END ] on our project for CSCI 495.
 
+Link to the Sr Proj Proper: [TN-Standards](https://github.com/SamToney/TN-Standards/)
+
 ### Group Members
 Name | Focus
 ------- | -------
