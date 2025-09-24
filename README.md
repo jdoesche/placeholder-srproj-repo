@@ -1,6 +1,6 @@
 # CSCI 495 - Senior Project
 
-This repository is for documenting the work on our project for CSCI 495.
+This repository is for documenting the work [ ON MY - Jesse - 's END ] on our project for CSCI 495.
 
 ### Group Members
 Name | Focus
