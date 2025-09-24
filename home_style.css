@@ -1,0 +1,27 @@
+header {
+    background-color: #e91717;
+    padding: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin-left: 20px #e91717;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
